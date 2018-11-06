@@ -1,0 +1,12 @@
+{
+  "name": "webpack-html-independent-public-path",
+  "version": "1.0.0",
+  "description": "Specify a independent public path for html-webpack-plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luchangfeng <linhu.lu@foxmail.com> (https://github.com/luchangfeng)",
+  "license": "MIT",
+  "repository": "https://github.com/luchangfeng/webpack-html-independent-public-path.git"
+}
